@@ -3,8 +3,8 @@
 **🚀 Research Topic:** Fashion Recommendation 
 
 **🗄️ Data Source:** (We will use this dataset) https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
-*Images* = 44.4k
-*Styles* = A csv file that contains the labels of images.
+- *Images* = 44.4k
+- *Styles* = A csv file that contains the labels of images.
 
 **⭐ High Quality Data Source:**
 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset/data
