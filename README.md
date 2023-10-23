@@ -1,4 +1,5 @@
-# Fashion-Recommendation-Model
+# Similar Clothes Recommendations Model
+
 
 **🚀 Research Topic:** Fashion Recommendation 
 
