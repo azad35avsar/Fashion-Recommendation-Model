@@ -3,6 +3,8 @@
 
 **🚀 Research Topic:** Fashion Recommendation 
 
+**♾️ Blog Posts:** https://mlp.lptn.name.tr/
+
 **🗄️ Data Source:** (We will use this dataset) https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 - *Images* = 44.4k
 - *Styles* = A csv file that contains the labels of images.
